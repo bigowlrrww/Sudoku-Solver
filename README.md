@@ -1,5 +1,5 @@
 # Suduko-Solver
-This is the file that contains the code. if you are running this in visual studios you will need to add #include "stdafx.h" to the first line
+If you are running this in visual studios you will need to add #include "stdafx.h" to the first line.
 In addition to this if you plan on running this on linux comment out #define WINDOWS, this will allow the colors to display properly.
 
 # gameboard.txt
